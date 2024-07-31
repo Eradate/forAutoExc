@@ -1,0 +1,9 @@
+HWIDBlackListed = {
+  [] = ValueBlock1
+  [] = ValueBlock2
+  [] = ValueBlock3
+  [] = ValueBlock4
+  [] = ValueBlock5
+  [] = ValueBlock6
+  [] = ValueBlock7
+}
